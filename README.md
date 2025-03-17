@@ -2,6 +2,7 @@
 Details about my Validator on Solana network for everyone who wants to delegate their stake.
 
 Identity Address: 451X5rboJpJtXK2gj4dLsXv8yCGfujqus2HsYjMkkSpE
+
 Public Vote Account: FqERCVEHjm9P9hghJwWbyN4TqwCCAYteeX1v6gBtt88p
 
 You can easily check the stats related to my Validator here: https://www.validators.app/validators/451X5rboJpJtXK2gj4dLsXv8yCGfujqus2HsYjMkkSpE?locale=en&network=mainnet

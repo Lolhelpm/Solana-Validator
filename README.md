@@ -17,3 +17,6 @@ The validator stands out due to its reliability, security, and efficiency. Here�
 ✅ Timely Updates & Security Patches – I apply protocol updates and security fixes to keep the validator running smoothly and securely.
 
 ✅ Optimized Network Connectivity – I utilize low-latency connections to ensure high-speed block propagation.
+
+Contact me:
+Email: nikbrown575@gmail.com

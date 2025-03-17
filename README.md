@@ -19,5 +19,6 @@ The validator stands out due to its reliability, security, and efficiency. Here�
 
 ✅ Optimized Network Connectivity – I utilize low-latency connections to ensure high-speed block propagation.
 
-Contact me:
+Contact me
+
 Email: nikbrown575@gmail.com

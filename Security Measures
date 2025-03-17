@@ -1,0 +1,13 @@
+Security is my top priority when operating my Solana validator on a dedicated server. I implement a multi-layered security approach to ensure stability, protection, and uninterrupted performance.
+
+Enterprise-Grade Server – I run my validator on a high-performance, dedicated machine with strict access controls to prevent unauthorized intrusion.
+
+Firewall and DDoS Protection – My server is secured with advanced firewall rules and anti-DDoS mechanisms to defend against malicious attacks.
+
+Secure Key Management – My validator keys are never exposed online. I use cold storage solutions and follow best practices to protect private keys from unauthorized access.
+
+Continuous Monitoring and Automated Alerts – I actively monitor my server’s performance, connection stability, and potential security threats, receiving real-time alerts to respond immediately.
+
+Regular Backups and Disaster Recovery – I maintain encrypted backups and a structured recovery plan to quickly restore my validator in case of unexpected failures.
+
+Timely Security Updates – I promptly apply Solana protocol updates, security patches, and server hardening measures to minimize vulnerabilities.
